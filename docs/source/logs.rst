@@ -1,14 +1,20 @@
 Latest Logs From Latest Build
 ==============================
 
-Generated On: --datetime-- UTC
+Generated On: 2024-12-21 14:32:37 UTC
 
 These are the latest logs generated from your latest build.  
 
 .. tip:: 
-   Complete logs from all builds can be found `here on GitHub <--githublogs-->`_
+   Complete logs from all builds can be found `here on GitHub <https://github.com/smaurice101/raspberrypitss/blob/main/tml-airflow/logs/logs.txt>`_
 
 .. code-block:: 
   :linenos:
 
---logs--
+  [INFO 2024-12-21_14:32:33] STEP 1: completed - TML system parameters successfully gathered
+
+  [INFO 2024-12-21_14:32:37] STEP 10: Started to build the documentation
+
+  [INFO 2024-12-21_14:32:37] STEP 10: Documentation successfully built on GitHub..Readthedocs build in process and should complete in few seconds
+
+
